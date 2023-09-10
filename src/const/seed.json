@@ -1,0 +1,2572 @@
+[
+  {
+    "property": [
+      {
+        "id": "e0abae68-88a7-4e6b-8306-1d6d7b49f628",
+        "name": "Cozy Cottage",
+        "location": "New York City",
+        "bedrooms": 64688,
+        "bathrooms": 90068,
+        "created_at": "2023-09-10T05:54:44.099Z",
+        "updated_at": "2023-09-10T11:13:09.372Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cfadd490-b605-4a49-a1fc-00c32e356f92",
+        "name": "Modern Loft",
+        "location": "San Francisco",
+        "bedrooms": 19833,
+        "bathrooms": 20845,
+        "created_at": "2023-09-09T19:36:11.171Z",
+        "updated_at": "2023-09-10T08:43:50.967Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67b96728-b72b-40e1-b883-1afdabbecc9b",
+        "name": "Rustic Farmhouse",
+        "location": "London",
+        "bedrooms": 95230,
+        "bathrooms": 24254,
+        "created_at": "2023-09-10T04:19:53.261Z",
+        "updated_at": "2023-09-10T09:40:10.559Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8396c72e-1fc6-45cb-be73-b1a3d8638a2a",
+        "name": "Luxury Villa",
+        "location": "Paris",
+        "bedrooms": 76029,
+        "bathrooms": 67637,
+        "created_at": "2023-09-10T13:49:52.201Z",
+        "updated_at": "2023-09-10T11:35:59.623Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7dffd4e3-8143-4656-94d1-259d763bf586",
+        "name": "Beachfront Retreat",
+        "location": "Tokyo",
+        "bedrooms": 74816,
+        "bathrooms": 54515,
+        "created_at": "2023-09-10T03:04:47.779Z",
+        "updated_at": "2023-09-10T05:09:33.997Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "b8127dc6-013a-45cd-8c77-322d8f6316f5",
+        "name": "Social Connect",
+        "url": "https://socialconnect.com",
+        "api_key": "a1b2c3d4e5",
+        "api_secret": "s5t4r3q2p1o0n9m8l7k6j5i4h3g2f1e0d9c8b7a6",
+        "created_at": "2023-09-10T04:52:46.732Z",
+        "updated_at": "2023-09-10T02:31:24.964Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "471e2602-e9e7-4721-a22b-0263a37dcaa8",
+        "name": "E-commerce Hub",
+        "url": "https://ecommercehub.com",
+        "api_key": "f6g7h8i9j0",
+        "api_secret": "a5b4c3d2e1f0g9h8i7j6k5l4m3n2o1p0",
+        "created_at": "2023-09-10T06:21:04.925Z",
+        "updated_at": "2023-09-10T11:36:44.297Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ef4d0487-8c43-4ae5-83ae-dd5f6b70510e",
+        "name": "Analytics Pro",
+        "url": "https://analyticspro.com",
+        "api_key": "k1l2m3n4o5",
+        "api_secret": "q9r8s7t6u5v4w3x2y1z0a9b8c7d6e5f4g3h2",
+        "created_at": "2023-09-10T03:10:00.941Z",
+        "updated_at": "2023-09-09T18:08:59.057Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fb101e7b-7592-4e06-bf06-f183681930c1",
+        "name": "Marketing Insights",
+        "url": "https://marketinginsights.com",
+        "api_key": "p6q7r8s9t0",
+        "api_secret": "i9j8k7l6m5n4o3p2q1r0s9t8u7v6w5x4y3z2",
+        "created_at": "2023-09-10T02:13:25.501Z",
+        "updated_at": "2023-09-10T08:54:05.248Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8a008aac-8785-4b7f-87d3-0b9ad246880e",
+        "name": "Customer Support",
+        "url": "https://customersupport.com",
+        "api_key": "u1v2w3x4y5",
+        "api_secret": "d9e8f7g6h5i4j3k2l1m0n9o8p7q6r5s4t3u2v1",
+        "created_at": "2023-09-10T13:14:12.467Z",
+        "updated_at": "2023-09-09T22:53:06.211Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "b67179a0-e408-404d-a027-f84a892fa5dc",
+        "date": "2023-09-09T17:57:03.730Z",
+        "status": "Available",
+        "created_at": "2023-09-10T12:28:36.645Z",
+        "updated_at": "2023-09-09T20:29:54.678Z",
+        "property_id": "7dffd4e3-8143-4656-94d1-259d763bf586",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c43cf93-5a5c-4442-b19a-1a3b55f3cc48",
+        "date": "2023-09-10T04:53:55.970Z",
+        "status": "Busy",
+        "created_at": "2023-09-09T18:12:23.804Z",
+        "updated_at": "2023-09-10T11:05:09.200Z",
+        "property_id": "e0abae68-88a7-4e6b-8306-1d6d7b49f628",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f742b181-0ded-48ac-9dcc-0e4c8252d017",
+        "date": "2023-09-10T06:10:20.195Z",
+        "status": "Out of Office",
+        "created_at": "2023-09-10T03:42:23.037Z",
+        "updated_at": "2023-09-09T20:45:35.121Z",
+        "property_id": "7dffd4e3-8143-4656-94d1-259d763bf586",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e80a6dae-1a06-46f6-826a-1598f445ce96",
+        "date": "2023-09-10T10:12:26.979Z",
+        "status": "Meeting",
+        "created_at": "2023-09-10T09:43:30.963Z",
+        "updated_at": "2023-09-09T22:24:39.654Z",
+        "property_id": "67b96728-b72b-40e1-b883-1afdabbecc9b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1230cdd3-00cc-4e8f-ab6b-94a8abd35e14",
+        "date": "2023-09-09T17:11:13.533Z",
+        "status": "Vacation",
+        "created_at": "2023-09-10T02:24:31.427Z",
+        "updated_at": "2023-09-10T14:10:49.272Z",
+        "property_id": "7dffd4e3-8143-4656-94d1-259d763bf586",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "def1b5b6-3dd0-4a11-b748-2e3d776fe5e2",
+        "title": "Important Announcement",
+        "content": "Join us for an exciting event next week!",
+        "date_posted": "2023-09-10T15:58:14.975Z",
+        "created_at": "2023-09-09T23:59:55.897Z",
+        "updated_at": "2023-09-09T17:58:31.596Z",
+        "platform_id": "fb101e7b-7592-4e06-bf06-f183681930c1",
+        "property_id": "67b96728-b72b-40e1-b883-1afdabbecc9b"
+      },
+      {
+        "id": "fadf97a2-d111-4415-bc61-8ed93ca386c3",
+        "title": "Upcoming Event",
+        "content": "Introducing our latest product with advanced features.",
+        "date_posted": "2023-09-10T09:12:12.979Z",
+        "created_at": "2023-09-09T20:27:17.820Z",
+        "updated_at": "2023-09-09T21:35:24.693Z",
+        "platform_id": "471e2602-e9e7-4721-a22b-0263a37dcaa8",
+        "property_id": "7dffd4e3-8143-4656-94d1-259d763bf586"
+      },
+      {
+        "id": "e6f297df-407d-447c-bce2-b20fa6d65007",
+        "title": "New Product Launch",
+        "content": "We are pleased to announce our partnership with XYZ.",
+        "date_posted": "2023-09-10T14:35:47.740Z",
+        "created_at": "2023-09-10T12:18:04.363Z",
+        "updated_at": "2023-09-09T17:20:37.635Z",
+        "platform_id": "471e2602-e9e7-4721-a22b-0263a37dcaa8",
+        "property_id": "67b96728-b72b-40e1-b883-1afdabbecc9b"
+      },
+      {
+        "id": "a719ffa4-7561-443e-a9ec-0fe30618312d",
+        "title": "Company Update",
+        "content": "Stay tuned for exciting updates and news.",
+        "date_posted": "2023-09-09T18:05:24.565Z",
+        "created_at": "2023-09-09T19:21:03.902Z",
+        "updated_at": "2023-09-10T12:43:40.613Z",
+        "platform_id": "471e2602-e9e7-4721-a22b-0263a37dcaa8",
+        "property_id": "67b96728-b72b-40e1-b883-1afdabbecc9b"
+      },
+      {
+        "id": "1e6feddd-48a2-493f-b7f2-87c64131fd4c",
+        "title": "Special Offer",
+        "content": "Limited time offer: Get 50% off on all products.",
+        "date_posted": "2023-09-09T20:44:55.132Z",
+        "created_at": "2023-09-10T12:43:20.423Z",
+        "updated_at": "2023-09-10T14:25:16.639Z",
+        "platform_id": "8a008aac-8785-4b7f-87d3-0b9ad246880e",
+        "property_id": "67b96728-b72b-40e1-b883-1afdabbecc9b"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "29ade6e1-4a81-4259-99f3-69f5a0d51bfd",
+        "email": "Yvette54@hotmail.com",
+        "firstName": "Monique",
+        "lastName": "Daniel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1048.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9ffb7151-aa6f-4620-8d86-c80eb3906a31",
+        "email": "Harrison.Reynolds6@hotmail.com",
+        "firstName": "Ramon",
+        "lastName": "Stroman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/920.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8a92786e-c910-4229-834f-a917cf2cefba",
+        "email": "Novella_Reinger@hotmail.com",
+        "firstName": "Laurence",
+        "lastName": "Rohan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84903485",
+        "tenantId": null
+      },
+      {
+        "reference": "cc878c92-d5fd-4f4a-a24f-7a01d9540f84",
+        "email": "Rolando_Carroll@gmail.com",
+        "firstName": "Meghan",
+        "lastName": "Kilback",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/392.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e14cbc9b-eb31-494f-b841-d74c71bb6f06",
+        "email": "Imani_Gusikowski14@hotmail.com",
+        "firstName": "America",
+        "lastName": "Mayert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/28.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "4c1f6869-e90a-4007-9162-9eee3f0d18d9",
+        "name": "Beach House",
+        "location": "Malibu, CA",
+        "bedrooms": 34550,
+        "bathrooms": 54643,
+        "created_at": "2023-09-09T18:06:07.698Z",
+        "updated_at": "2023-09-10T00:06:50.809Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "66befe8a-7f54-4b91-90be-6600e2ecd1b1",
+        "name": "Mountain Retreat",
+        "location": "Aspen, CO",
+        "bedrooms": 15607,
+        "bathrooms": 76887,
+        "created_at": "2023-09-10T16:01:40.390Z",
+        "updated_at": "2023-09-10T05:22:51.302Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fcd689cd-7c1e-4946-8cc6-6cdc842be907",
+        "name": "City Apartment",
+        "location": "New York, NY",
+        "bedrooms": 43878,
+        "bathrooms": 14812,
+        "created_at": "2023-09-10T12:15:43.140Z",
+        "updated_at": "2023-09-10T11:48:42.726Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cbe75146-6c87-4653-b673-cb83d3460221",
+        "name": "Lakefront Villa",
+        "location": "Lake Tahoe, NV",
+        "bedrooms": 54154,
+        "bathrooms": 77833,
+        "created_at": "2023-09-10T01:28:04.302Z",
+        "updated_at": "2023-09-10T01:20:00.651Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e4d477f6-2f8f-468c-9462-d1d4d1532134",
+        "name": "Country Estate",
+        "location": "Countryside, England",
+        "bedrooms": 21255,
+        "bathrooms": 94832,
+        "created_at": "2023-09-09T21:28:56.064Z",
+        "updated_at": "2023-09-10T02:53:41.714Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "917d48aa-32fa-4f2b-bc4d-362d6e35cae5",
+        "name": "Social Media Platform",
+        "url": "https://example.com",
+        "api_key": "1234567890",
+        "api_secret": "abcdefg",
+        "created_at": "2023-09-10T14:01:30.732Z",
+        "updated_at": "2023-09-10T05:03:17.945Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f0e952eb-89f0-46f6-904b-9871cff3332e",
+        "name": "E-commerce Platform",
+        "url": "https://platform.com",
+        "api_key": "0987654321",
+        "api_secret": "hijklmnop",
+        "created_at": "2023-09-10T14:23:53.293Z",
+        "updated_at": "2023-09-09T17:59:57.296Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "938f9c84-f91f-4d10-abfb-8b6b027e2b6e",
+        "name": "Project Management Platform",
+        "url": "https://website.com",
+        "api_key": "qwertyuiop",
+        "api_secret": "qrstuvwxyz",
+        "created_at": "2023-09-10T15:16:50.224Z",
+        "updated_at": "2023-09-09T20:52:53.836Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0b8335a2-8726-41dd-bf35-012af954710d",
+        "name": "Analytics Platform",
+        "url": "https://platform.io",
+        "api_key": "asdfghjkl",
+        "api_secret": "12345678",
+        "created_at": "2023-09-10T12:58:21.924Z",
+        "updated_at": "2023-09-10T07:21:45.422Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e4590742-1dd9-44fe-a1f4-cfb708ca1a43",
+        "name": "Messaging Platform",
+        "url": "https://app.net",
+        "api_key": "zxcvbnm",
+        "api_secret": "87654321",
+        "created_at": "2023-09-10T10:51:16.826Z",
+        "updated_at": "2023-09-10T15:04:14.928Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "f206b274-a42d-4ffc-b6f4-021c4833fc81",
+        "date": "2023-09-09T19:29:24.351Z",
+        "status": "Active",
+        "created_at": "2023-09-10T12:32:06.566Z",
+        "updated_at": "2023-09-10T08:34:25.813Z",
+        "property_id": "66befe8a-7f54-4b91-90be-6600e2ecd1b1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2cd54873-8e76-4819-b33c-1f2e790dfe77",
+        "date": "2023-09-10T05:27:23.359Z",
+        "status": "Inactive",
+        "created_at": "2023-09-10T00:03:40.039Z",
+        "updated_at": "2023-09-09T20:36:50.122Z",
+        "property_id": "fcd689cd-7c1e-4946-8cc6-6cdc842be907",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd012e5d-ec17-45e1-bf97-51a2fa5c97df",
+        "date": "2023-09-10T03:48:42.353Z",
+        "status": "Pending",
+        "created_at": "2023-09-10T13:23:19.516Z",
+        "updated_at": "2023-09-10T15:42:24.058Z",
+        "property_id": "66befe8a-7f54-4b91-90be-6600e2ecd1b1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "806c9096-9826-4ae6-a984-d0fd63cf1d2b",
+        "date": "2023-09-10T05:01:12.922Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-10T14:26:44.447Z",
+        "updated_at": "2023-09-10T11:27:12.193Z",
+        "property_id": "e4d477f6-2f8f-468c-9462-d1d4d1532134",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c38ecec-949b-454e-8882-0b80624b6065",
+        "date": "2023-09-10T01:01:49.770Z",
+        "status": "Completed",
+        "created_at": "2023-09-10T01:37:14.404Z",
+        "updated_at": "2023-09-10T00:36:13.608Z",
+        "property_id": "66befe8a-7f54-4b91-90be-6600e2ecd1b1",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "82b1306c-7380-4d1d-b8c5-2199a2f51eb0",
+        "title": "Important Announcement",
+        "content": "Lorem ipsum dolor sit amet",
+        "date_posted": "2023-09-10T08:39:24.294Z",
+        "created_at": "2023-09-09T18:14:52.970Z",
+        "updated_at": "2023-09-10T00:32:33.187Z",
+        "platform_id": "f0e952eb-89f0-46f6-904b-9871cff3332e",
+        "property_id": "4c1f6869-e90a-4007-9162-9eee3f0d18d9"
+      },
+      {
+        "id": "43946c7b-df17-48b5-8cdd-705be8924545",
+        "title": "Upcoming Event",
+        "content": "Consectetur adipiscing elit",
+        "date_posted": "2023-09-10T09:09:55.327Z",
+        "created_at": "2023-09-10T05:19:02.174Z",
+        "updated_at": "2023-09-10T04:25:55.594Z",
+        "platform_id": "0b8335a2-8726-41dd-bf35-012af954710d",
+        "property_id": "66befe8a-7f54-4b91-90be-6600e2ecd1b1"
+      },
+      {
+        "id": "05c1c66c-d516-4e07-bf0d-ea88e2f0d7e7",
+        "title": "Product Update",
+        "content": "Sed do eiusmod tempor incididunt",
+        "date_posted": "2023-09-09T21:49:59.111Z",
+        "created_at": "2023-09-10T11:30:56.439Z",
+        "updated_at": "2023-09-09T22:54:39.989Z",
+        "platform_id": "f0e952eb-89f0-46f6-904b-9871cff3332e",
+        "property_id": "66befe8a-7f54-4b91-90be-6600e2ecd1b1"
+      },
+      {
+        "id": "be6e83cc-ab73-4e4c-a416-4e9700081b1b",
+        "title": "Company News",
+        "content": "Ut labore et dolore magna aliqua",
+        "date_posted": "2023-09-10T16:20:56.761Z",
+        "created_at": "2023-09-10T00:00:29.239Z",
+        "updated_at": "2023-09-10T07:28:51.983Z",
+        "platform_id": "e4590742-1dd9-44fe-a1f4-cfb708ca1a43",
+        "property_id": "66befe8a-7f54-4b91-90be-6600e2ecd1b1"
+      },
+      {
+        "id": "6fda8f61-19ce-494f-9f9d-fd272da630ec",
+        "title": "Special Offer",
+        "content": "Ut enim ad minim veniam",
+        "date_posted": "2023-09-09T19:08:48.788Z",
+        "created_at": "2023-09-10T01:35:17.446Z",
+        "updated_at": "2023-09-10T11:45:27.183Z",
+        "platform_id": "938f9c84-f91f-4d10-abfb-8b6b027e2b6e",
+        "property_id": "66befe8a-7f54-4b91-90be-6600e2ecd1b1"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "af6bf4de-40e7-4d29-8514-efe7bfbded66",
+        "email": "Modesta.Muller74@hotmail.com",
+        "firstName": "Kyler",
+        "lastName": "Cartwright",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66897018",
+        "tenantId": null
+      },
+      {
+        "reference": "5b8c897b-4933-482a-930f-3176a4b97bd0",
+        "email": "Clare78@hotmail.com",
+        "firstName": "Zoe",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66706656",
+        "tenantId": null
+      },
+      {
+        "reference": "6dd28784-8c25-4635-9e00-bc4da45a5c47",
+        "email": "Edward_Tillman@gmail.com",
+        "firstName": "Jeanie",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1215.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "94d6bca0-7a0c-45c1-a0ac-52ee7011a45e",
+        "email": "Merle.Feest71@gmail.com",
+        "firstName": "Braxton",
+        "lastName": "Christiansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/831.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0dcb730e-daf5-4640-b77f-2dec6ce005f2",
+        "email": "Kenton.Marvin@yahoo.com",
+        "firstName": "Tina",
+        "lastName": "Roberts",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/369.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "c398354e-3cd3-410f-99e2-7578352a76f1",
+        "name": "Luxury Villa",
+        "location": "Beachfront",
+        "bedrooms": 76907,
+        "bathrooms": 29230,
+        "created_at": "2023-09-10T05:53:59.533Z",
+        "updated_at": "2023-09-10T08:09:09.401Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0b06c974-b06f-42fd-8dfa-f5f19f738914",
+        "name": "Cozy Cottage",
+        "location": "Mountain View",
+        "bedrooms": 71991,
+        "bathrooms": 27033,
+        "created_at": "2023-09-10T14:33:12.791Z",
+        "updated_at": "2023-09-10T03:21:30.333Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a5017cea-a3ac-4265-9c58-6546efd00c02",
+        "name": "Modern Apartment",
+        "location": "City Center",
+        "bedrooms": 46660,
+        "bathrooms": 32743,
+        "created_at": "2023-09-10T01:40:51.297Z",
+        "updated_at": "2023-09-10T01:27:36.613Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "999ecb4d-cb8c-4906-85fc-f0d3ebf8b8c0",
+        "name": "Spacious Condo",
+        "location": "Suburban Area",
+        "bedrooms": 9085,
+        "bathrooms": 87021,
+        "created_at": "2023-09-10T11:29:25.774Z",
+        "updated_at": "2023-09-10T05:53:29.539Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "77e52d54-6a7e-4cc6-aa23-40d971202bb3",
+        "name": "Charming Bungalow",
+        "location": "Rural Retreat",
+        "bedrooms": 88141,
+        "bathrooms": 35584,
+        "created_at": "2023-09-09T17:49:27.545Z",
+        "updated_at": "2023-09-10T03:02:59.883Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "fba1fc6d-b960-4956-9fd9-10dc602c0479",
+        "name": "Social Connect",
+        "url": "https://socialconnect.com",
+        "api_key": "abc123",
+        "api_secret": "secret1",
+        "created_at": "2023-09-10T16:11:44.309Z",
+        "updated_at": "2023-09-09T18:09:56.219Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "46dedb1a-f7f9-4a90-8234-5630afb127d0",
+        "name": "TechHub",
+        "url": "https://techhub.com",
+        "api_key": "def456",
+        "api_secret": "secret2",
+        "created_at": "2023-09-10T01:17:36.352Z",
+        "updated_at": "2023-09-10T10:02:01.249Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2aa2ceaf-adff-4f70-85a2-8d9862701f18",
+        "name": "eCommerce Pro",
+        "url": "https://ecommercepro.com",
+        "api_key": "ghi789",
+        "api_secret": "secret3",
+        "created_at": "2023-09-09T19:35:44.680Z",
+        "updated_at": "2023-09-10T16:17:13.119Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6fe90151-8c72-491e-a763-a6634fd714ba",
+        "name": "Data Analytics",
+        "url": "https://dataanalytics.com",
+        "api_key": "jkl012",
+        "api_secret": "secret4",
+        "created_at": "2023-09-09T17:35:28.715Z",
+        "updated_at": "2023-09-09T23:52:54.233Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2120f0af-4dbb-4c19-978a-0fdeb78862d9",
+        "name": "Mobile Solutions",
+        "url": "https://mobilesolutions.com",
+        "api_key": "mno345",
+        "api_secret": "secret5",
+        "created_at": "2023-09-09T19:39:45.498Z",
+        "updated_at": "2023-09-10T04:23:05.190Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "c4621cef-e717-4103-a254-fb1d79388cce",
+        "date": "2023-09-10T15:11:28.287Z",
+        "status": "Available",
+        "created_at": "2023-09-09T22:21:23.460Z",
+        "updated_at": "2023-09-10T09:38:23.177Z",
+        "property_id": "77e52d54-6a7e-4cc6-aa23-40d971202bb3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10c7f95f-280c-4872-87a4-c37fef9e2cd8",
+        "date": "2023-09-10T13:34:24.350Z",
+        "status": "Booked",
+        "created_at": "2023-09-10T03:52:21.911Z",
+        "updated_at": "2023-09-10T07:06:08.222Z",
+        "property_id": "77e52d54-6a7e-4cc6-aa23-40d971202bb3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ef128d3-9233-463e-9d5b-161ec1446714",
+        "date": "2023-09-09T17:30:04.280Z",
+        "status": "Pending",
+        "created_at": "2023-09-10T11:04:20.467Z",
+        "updated_at": "2023-09-09T19:10:58.660Z",
+        "property_id": "999ecb4d-cb8c-4906-85fc-f0d3ebf8b8c0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a0776df0-de14-4c32-a6d7-1160489df174",
+        "date": "2023-09-10T13:21:43.084Z",
+        "status": "Blocked",
+        "created_at": "2023-09-10T00:20:30.245Z",
+        "updated_at": "2023-09-10T02:32:57.338Z",
+        "property_id": "c398354e-3cd3-410f-99e2-7578352a76f1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "100de1e2-e85a-4401-bcff-dbfa0f72f49a",
+        "date": "2023-09-10T06:45:48.676Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-10T10:54:45.685Z",
+        "updated_at": "2023-09-10T12:41:58.311Z",
+        "property_id": "999ecb4d-cb8c-4906-85fc-f0d3ebf8b8c0",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "74430ac7-aa7b-4d10-8b59-98f3e6d5d7fa",
+        "title": "New Product Launch",
+        "content": "Join us for the unveiling of our latest product",
+        "date_posted": "2023-09-09T22:25:47.698Z",
+        "created_at": "2023-09-09T21:25:09.414Z",
+        "updated_at": "2023-09-10T15:59:22.313Z",
+        "platform_id": "fba1fc6d-b960-4956-9fd9-10dc602c0479",
+        "property_id": "0b06c974-b06f-42fd-8dfa-f5f19f738914"
+      },
+      {
+        "id": "bf53787b-c751-4df7-af27-7e93bb42a30e",
+        "title": "Upcoming Event",
+        "content": "Save the date for our upcoming event",
+        "date_posted": "2023-09-10T07:47:56.499Z",
+        "created_at": "2023-09-10T06:17:11.656Z",
+        "updated_at": "2023-09-10T01:22:06.532Z",
+        "platform_id": "6fe90151-8c72-491e-a763-a6634fd714ba",
+        "property_id": "c398354e-3cd3-410f-99e2-7578352a76f1"
+      },
+      {
+        "id": "d04cdba1-2434-43db-ac28-dd485afe4db3",
+        "title": "Important Announcement",
+        "content": "We have an important announcement to share with you",
+        "date_posted": "2023-09-09T19:45:58.854Z",
+        "created_at": "2023-09-10T01:04:40.081Z",
+        "updated_at": "2023-09-10T02:46:46.854Z",
+        "platform_id": "46dedb1a-f7f9-4a90-8234-5630afb127d0",
+        "property_id": "c398354e-3cd3-410f-99e2-7578352a76f1"
+      },
+      {
+        "id": "8a02e924-c3d6-4cbf-b4ee-b32f0c91030b",
+        "title": "Special Promotion",
+        "content": "Don't miss out on our special promotion",
+        "date_posted": "2023-09-10T00:52:45.752Z",
+        "created_at": "2023-09-10T07:26:01.482Z",
+        "updated_at": "2023-09-10T05:38:18.043Z",
+        "platform_id": "6fe90151-8c72-491e-a763-a6634fd714ba",
+        "property_id": "c398354e-3cd3-410f-99e2-7578352a76f1"
+      },
+      {
+        "id": "eed4763a-400a-4744-b7a3-a5d915562503",
+        "title": "Company Update",
+        "content": "Stay informed with the latest company updates",
+        "date_posted": "2023-09-09T19:50:05.235Z",
+        "created_at": "2023-09-10T13:56:56.610Z",
+        "updated_at": "2023-09-10T10:11:25.128Z",
+        "platform_id": "2120f0af-4dbb-4c19-978a-0fdeb78862d9",
+        "property_id": "77e52d54-6a7e-4cc6-aa23-40d971202bb3"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cc38362a-1114-4e66-b9a2-e54b32349de2",
+        "email": "Tracy_Waelchi19@yahoo.com",
+        "firstName": "Oda",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84122083",
+        "tenantId": null
+      },
+      {
+        "reference": "1911f4a3-45d7-4657-b7e1-13016ceb0540",
+        "email": "Rae_Aufderhar8@hotmail.com",
+        "firstName": "Kamren",
+        "lastName": "Watsica",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/846.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "909ce577-0c92-4ef5-a34b-e184ecb8d7f2",
+        "email": "Jose.Sanford66@hotmail.com",
+        "firstName": "Garnet",
+        "lastName": "Okuneva",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18642190",
+        "tenantId": null
+      },
+      {
+        "reference": "4b5d76d9-3576-480c-90b0-e48b1c2e8a05",
+        "email": "Johnathan.Roberts51@hotmail.com",
+        "firstName": "Arvel",
+        "lastName": "Braun",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/193.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "af40ffd9-b974-4a8c-9b55-a08a0662bc39",
+        "email": "Pansy_Cronin@hotmail.com",
+        "firstName": "Filiberto",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74428623",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "5d7dbc7f-ca5a-4fac-a5a0-ded6c03536cd",
+        "name": "Luxury Villa",
+        "location": "Malibu, California",
+        "bedrooms": 1721,
+        "bathrooms": 24364,
+        "created_at": "2023-09-10T11:23:48.766Z",
+        "updated_at": "2023-09-10T15:31:31.167Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64f73ed8-56f8-4a6e-a979-039e0f3c2b73",
+        "name": "Cozy Cottage",
+        "location": "Aspen, Colorado",
+        "bedrooms": 8162,
+        "bathrooms": 75300,
+        "created_at": "2023-09-10T00:18:50.854Z",
+        "updated_at": "2023-09-10T03:06:55.543Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91a3d953-f5fe-4a0c-8a27-cabfa2dd4bf0",
+        "name": "Modern Apartment",
+        "location": "Paris, France",
+        "bedrooms": 13555,
+        "bathrooms": 73291,
+        "created_at": "2023-09-10T00:16:34.252Z",
+        "updated_at": "2023-09-10T06:34:29.129Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df184f06-fc90-4128-836a-029232638839",
+        "name": "Rustic Cabin",
+        "location": "Tokyo, Japan",
+        "bedrooms": 15980,
+        "bathrooms": 54068,
+        "created_at": "2023-09-09T20:39:21.317Z",
+        "updated_at": "2023-09-10T08:14:50.471Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f493fe2c-fb0e-498f-a7e2-c4ca93f547e0",
+        "name": "Beach House",
+        "location": "Sydney, Australia",
+        "bedrooms": 82476,
+        "bathrooms": 54649,
+        "created_at": "2023-09-10T00:06:32.231Z",
+        "updated_at": "2023-09-10T14:43:19.177Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "bf81476e-6f1d-46d1-9b2d-5fa412aa82df",
+        "name": "SocialConnect",
+        "url": "https://www.socialconnect.com",
+        "api_key": "1234567890",
+        "api_secret": "a1b2c3d4e5",
+        "created_at": "2023-09-10T04:33:59.810Z",
+        "updated_at": "2023-09-10T15:02:38.137Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "97f1b366-e201-46ea-b62f-cedfd54dd475",
+        "name": "eCommercePro",
+        "url": "https://www.ecommercepro.com",
+        "api_key": "0987654321",
+        "api_secret": "f6g7h8i9j0",
+        "created_at": "2023-09-10T01:40:09.668Z",
+        "updated_at": "2023-09-10T08:36:03.615Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "951c57ad-cf54-4360-83f1-3c0d99e59428",
+        "name": "DataAnalyzer",
+        "url": "https://www.dataanalyzer.com",
+        "api_key": "abcdef1234",
+        "api_secret": "k1l2m3n4o5",
+        "created_at": "2023-09-10T07:56:13.697Z",
+        "updated_at": "2023-09-09T19:18:23.047Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "55f10d3d-4257-4fd9-80b2-b98b079371e0",
+        "name": "CloudSync",
+        "url": "https://www.cloudsync.com",
+        "api_key": "56789abcd",
+        "api_secret": "p6q7r8s9t0",
+        "created_at": "2023-09-10T03:48:30.135Z",
+        "updated_at": "2023-09-09T21:34:20.694Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c1f12ce6-6bf6-4fc5-a6b3-3abd8fb150bf",
+        "name": "AIAssistant",
+        "url": "https://www.aiassistant.com",
+        "api_key": "efghijklmn",
+        "api_secret": "u1v2w3x4y5z",
+        "created_at": "2023-09-10T00:02:16.147Z",
+        "updated_at": "2023-09-10T16:27:05.434Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "77c5c375-33ce-410a-ae8d-59c71428ddb8",
+        "date": "2023-09-10T06:54:07.866Z",
+        "status": "Active",
+        "created_at": "2023-09-10T01:34:06.617Z",
+        "updated_at": "2023-09-10T04:54:23.898Z",
+        "property_id": "f493fe2c-fb0e-498f-a7e2-c4ca93f547e0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "322d5a5f-519b-4821-9a7e-a713360a606c",
+        "date": "2023-09-09T22:36:40.325Z",
+        "status": "Inactive",
+        "created_at": "2023-09-10T16:26:35.574Z",
+        "updated_at": "2023-09-09T23:14:57.372Z",
+        "property_id": "64f73ed8-56f8-4a6e-a979-039e0f3c2b73",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f9db57c-7e0b-40c9-abdd-ca67b72ef26e",
+        "date": "2023-09-10T14:18:04.195Z",
+        "status": "Pending",
+        "created_at": "2023-09-09T22:00:40.479Z",
+        "updated_at": "2023-09-09T20:49:00.342Z",
+        "property_id": "df184f06-fc90-4128-836a-029232638839",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2faa02e-23a3-45af-a145-85c6be19ba7d",
+        "date": "2023-09-10T08:39:48.839Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-09T20:52:37.064Z",
+        "updated_at": "2023-09-09T20:01:46.053Z",
+        "property_id": "64f73ed8-56f8-4a6e-a979-039e0f3c2b73",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "714275e1-f394-4bf3-bf3c-644e500a3864",
+        "date": "2023-09-09T18:03:42.929Z",
+        "status": "Completed",
+        "created_at": "2023-09-10T07:59:41.354Z",
+        "updated_at": "2023-09-10T00:52:58.489Z",
+        "property_id": "f493fe2c-fb0e-498f-a7e2-c4ca93f547e0",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "74a32425-2887-4bbe-858f-0f458a951639",
+        "title": "New Product Launch",
+        "content": "Join us for the unveiling of our latest product!",
+        "date_posted": "2023-09-09T20:04:03.902Z",
+        "created_at": "2023-09-10T00:06:39.859Z",
+        "updated_at": "2023-09-10T11:52:52.812Z",
+        "platform_id": "55f10d3d-4257-4fd9-80b2-b98b079371e0",
+        "property_id": "91a3d953-f5fe-4a0c-8a27-cabfa2dd4bf0"
+      },
+      {
+        "id": "f78bfbd4-0d1a-4b1a-8c9b-2a6076e54262",
+        "title": "Upcoming Event Announcement",
+        "content": "Save the date for our annual conference.",
+        "date_posted": "2023-09-10T14:34:47.438Z",
+        "created_at": "2023-09-10T01:24:27.870Z",
+        "updated_at": "2023-09-10T00:30:01.572Z",
+        "platform_id": "bf81476e-6f1d-46d1-9b2d-5fa412aa82df",
+        "property_id": "91a3d953-f5fe-4a0c-8a27-cabfa2dd4bf0"
+      },
+      {
+        "id": "4b9830bd-833c-497f-abe9-c743498b9bbe",
+        "title": "Important Notice",
+        "content": "Please be advised of the upcoming system maintenance.",
+        "date_posted": "2023-09-10T10:35:34.260Z",
+        "created_at": "2023-09-10T12:03:15.823Z",
+        "updated_at": "2023-09-10T06:59:01.659Z",
+        "platform_id": "97f1b366-e201-46ea-b62f-cedfd54dd475",
+        "property_id": "df184f06-fc90-4128-836a-029232638839"
+      },
+      {
+        "id": "d9321e15-ac73-4d0b-9bf4-88d4b466aaf9",
+        "title": "Company Milestone Celebration",
+        "content": "We are proud to announce reaching 1 million customers!",
+        "date_posted": "2023-09-09T20:26:40.852Z",
+        "created_at": "2023-09-10T11:49:17.201Z",
+        "updated_at": "2023-09-09T22:46:32.235Z",
+        "platform_id": "bf81476e-6f1d-46d1-9b2d-5fa412aa82df",
+        "property_id": "df184f06-fc90-4128-836a-029232638839"
+      },
+      {
+        "id": "ba218414-d346-4f0b-b9de-99ec8c4c22b3",
+        "title": "Special Offer for Customers",
+        "content": "Get 20% off on all purchases this weekend only!",
+        "date_posted": "2023-09-09T20:34:50.511Z",
+        "created_at": "2023-09-09T21:33:08.059Z",
+        "updated_at": "2023-09-09T23:57:59.514Z",
+        "platform_id": "951c57ad-cf54-4360-83f1-3c0d99e59428",
+        "property_id": "91a3d953-f5fe-4a0c-8a27-cabfa2dd4bf0"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "91161042-2a50-49db-91db-9c2b9be46961",
+        "email": "Torrance_Feeney86@yahoo.com",
+        "firstName": "Mariam",
+        "lastName": "Reichert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/330.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0a4f79be-ab2a-445d-9358-bd8dcfafe6e2",
+        "email": "Flavio_Dietrich65@yahoo.com",
+        "firstName": "Tristian",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/518.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "11aec43c-0c44-447b-a492-6b406591fdf1",
+        "email": "Sonia.Kuhn@hotmail.com",
+        "firstName": "Cyril",
+        "lastName": "Gibson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54226909",
+        "tenantId": null
+      },
+      {
+        "reference": "40516a4d-9a71-4994-a8c4-25d9f6fa521b",
+        "email": "Garnet_Keebler2@yahoo.com",
+        "firstName": "Foster",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1226.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5f701df8-2b63-4779-8ba8-ff4bec91fb50",
+        "email": "Fabian_Waters@gmail.com",
+        "firstName": "Rosina",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/514.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "cd54d7e7-585c-48b3-9d13-ec4cb08e7581",
+        "name": "Luxury Villa",
+        "location": "Malibu, California",
+        "bedrooms": 98249,
+        "bathrooms": 33422,
+        "created_at": "2023-09-09T19:26:00.657Z",
+        "updated_at": "2023-09-10T14:44:32.844Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a55ca6a-944b-469f-a161-cb904ecc68be",
+        "name": "Cozy Cottage",
+        "location": "Aspen, Colorado",
+        "bedrooms": 82579,
+        "bathrooms": 68286,
+        "created_at": "2023-09-10T13:31:58.809Z",
+        "updated_at": "2023-09-10T02:54:14.357Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fe2201cc-d562-42f4-ae59-c3608946efc0",
+        "name": "Modern Apartment",
+        "location": "Paris, France",
+        "bedrooms": 48226,
+        "bathrooms": 29396,
+        "created_at": "2023-09-10T02:16:45.393Z",
+        "updated_at": "2023-09-10T05:44:29.218Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "756afc2c-015b-46f5-ba8b-fc1b86d50972",
+        "name": "Rustic Cabin",
+        "location": "Tokyo, Japan",
+        "bedrooms": 68371,
+        "bathrooms": 8584,
+        "created_at": "2023-09-10T01:41:48.068Z",
+        "updated_at": "2023-09-10T09:48:35.767Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0ca18d1d-9b16-4209-87fb-ebe9afbb637b",
+        "name": "Beach House",
+        "location": "Sydney, Australia",
+        "bedrooms": 95138,
+        "bathrooms": 16983,
+        "created_at": "2023-09-10T01:08:36.501Z",
+        "updated_at": "2023-09-10T15:13:54.761Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "ccae1cd3-5f97-4b8d-a574-4adfa02c8c8d",
+        "name": "SocialConnect",
+        "url": "https://socialconnect.com",
+        "api_key": "a1b2c3d4e5",
+        "api_secret": "s5r4q3p2o1n0",
+        "created_at": "2023-09-10T10:51:26.255Z",
+        "updated_at": "2023-09-10T16:00:59.858Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a1128ed4-90f6-4c40-8fb0-97a6d15acbf0",
+        "name": "TechHub",
+        "url": "https://techhub.com",
+        "api_key": "f6g7h8i9j0",
+        "api_secret": "t9u8v7w6x5y4",
+        "created_at": "2023-09-10T11:01:57.945Z",
+        "updated_at": "2023-09-10T02:43:50.627Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "101cebab-3902-4a14-bda0-910bb905c235",
+        "name": "GlobalMarket",
+        "url": "https://globalmarket.com",
+        "api_key": "k1l2m3n4o5",
+        "api_secret": "z3a2b1c0d9e8",
+        "created_at": "2023-09-09T22:23:25.266Z",
+        "updated_at": "2023-09-09T17:09:44.695Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dcdd72e6-50d0-4034-a436-17824d57193c",
+        "name": "EcoShop",
+        "url": "https://ecoshop.com",
+        "api_key": "p6q7r8s9t0",
+        "api_secret": "f7g6h5i4j3k2",
+        "created_at": "2023-09-10T15:55:13.417Z",
+        "updated_at": "2023-09-09T21:03:17.650Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5dcb7603-2c0d-49cb-b1ea-987003e7934f",
+        "name": "HealthTrack",
+        "url": "https://healthtrack.com",
+        "api_key": "u1v2w3x4y5",
+        "api_secret": "l1m0n9o8p7q6",
+        "created_at": "2023-09-10T14:25:33.934Z",
+        "updated_at": "2023-09-09T20:37:45.151Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "9e50bd10-baab-4182-98ae-bbc9c89653a2",
+        "date": "2023-09-10T02:05:19.377Z",
+        "status": "Active",
+        "created_at": "2023-09-09T17:51:40.841Z",
+        "updated_at": "2023-09-10T11:36:51.596Z",
+        "property_id": "5a55ca6a-944b-469f-a161-cb904ecc68be",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e4d94ee8-5e80-4b9e-9fb2-f81419b1326c",
+        "date": "2023-09-10T05:50:42.745Z",
+        "status": "Inactive",
+        "created_at": "2023-09-09T22:44:15.688Z",
+        "updated_at": "2023-09-09T19:22:58.795Z",
+        "property_id": "fe2201cc-d562-42f4-ae59-c3608946efc0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "531cc68a-2b3d-49cc-abff-251e60849c89",
+        "date": "2023-09-10T02:16:48.400Z",
+        "status": "Pending",
+        "created_at": "2023-09-10T12:09:45.294Z",
+        "updated_at": "2023-09-10T13:35:09.392Z",
+        "property_id": "0ca18d1d-9b16-4209-87fb-ebe9afbb637b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f74ff60-db50-4a39-8713-fa4d3551cc1d",
+        "date": "2023-09-10T11:46:01.954Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-10T14:55:25.340Z",
+        "updated_at": "2023-09-10T06:55:55.513Z",
+        "property_id": "5a55ca6a-944b-469f-a161-cb904ecc68be",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "155d9e25-3401-4f3a-9a39-728bb361129f",
+        "date": "2023-09-10T16:43:39.664Z",
+        "status": "Completed",
+        "created_at": "2023-09-10T03:21:04.191Z",
+        "updated_at": "2023-09-09T20:25:45.060Z",
+        "property_id": "756afc2c-015b-46f5-ba8b-fc1b86d50972",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "e7e1ad4a-694c-47f8-989f-e286488a5515",
+        "title": "Important Announcement",
+        "content": "Join us for an exciting event happening next week!",
+        "date_posted": "2023-09-10T10:51:18.692Z",
+        "created_at": "2023-09-10T15:49:14.435Z",
+        "updated_at": "2023-09-10T00:44:39.562Z",
+        "platform_id": "a1128ed4-90f6-4c40-8fb0-97a6d15acbf0",
+        "property_id": "756afc2c-015b-46f5-ba8b-fc1b86d50972"
+      },
+      {
+        "id": "f3224805-6c66-4570-9cb5-be689899a000",
+        "title": "Upcoming Event",
+        "content": "Introducing our latest product with advanced features.",
+        "date_posted": "2023-09-10T00:02:47.864Z",
+        "created_at": "2023-09-10T15:46:17.984Z",
+        "updated_at": "2023-09-09T21:30:27.582Z",
+        "platform_id": "5dcb7603-2c0d-49cb-b1ea-987003e7934f",
+        "property_id": "5a55ca6a-944b-469f-a161-cb904ecc68be"
+      },
+      {
+        "id": "9bb1d57a-44c4-445f-8cf9-04214a6054a7",
+        "title": "New Product Launch",
+        "content": "Stay updated with the latest news and developments.",
+        "date_posted": "2023-09-10T14:05:33.446Z",
+        "created_at": "2023-09-10T02:03:19.584Z",
+        "updated_at": "2023-09-09T18:57:11.415Z",
+        "platform_id": "101cebab-3902-4a14-bda0-910bb905c235",
+        "property_id": "756afc2c-015b-46f5-ba8b-fc1b86d50972"
+      },
+      {
+        "id": "9649bb42-32c6-4eb0-be3c-8b2c83a7936f",
+        "title": "Company Update",
+        "content": "We are pleased to announce our partnership with XYZ.",
+        "date_posted": "2023-09-10T03:11:15.876Z",
+        "created_at": "2023-09-10T01:16:02.858Z",
+        "updated_at": "2023-09-09T22:58:20.590Z",
+        "platform_id": "101cebab-3902-4a14-bda0-910bb905c235",
+        "property_id": "fe2201cc-d562-42f4-ae59-c3608946efc0"
+      },
+      {
+        "id": "c071ecaa-be3e-459d-93b1-a8841f76d3c0",
+        "title": "Special Promotion",
+        "content": "Enjoy exclusive discounts and offers for a limited time.",
+        "date_posted": "2023-09-09T23:21:22.558Z",
+        "created_at": "2023-09-10T15:38:06.616Z",
+        "updated_at": "2023-09-10T00:50:10.570Z",
+        "platform_id": "101cebab-3902-4a14-bda0-910bb905c235",
+        "property_id": "cd54d7e7-585c-48b3-9d13-ec4cb08e7581"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9f32a79f-a276-41a8-8b81-49d66832bd6b",
+        "email": "Selina_Roob@gmail.com",
+        "firstName": "Whitney",
+        "lastName": "Johnson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/641.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9cec7eee-622d-4ced-90e5-bbdb10fde4c9",
+        "email": "Trenton51@hotmail.com",
+        "firstName": "Yvonne",
+        "lastName": "Miller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41617422",
+        "tenantId": null
+      },
+      {
+        "reference": "c5d4c19e-dfc4-40b7-b29f-5fb3ad6e8e02",
+        "email": "Leann.Schinner14@hotmail.com",
+        "firstName": "Garland",
+        "lastName": "Schimmel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/435.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5745cfe8-8ad6-4ae7-8c60-423abd6f73bb",
+        "email": "Hank_Cartwright45@hotmail.com",
+        "firstName": "Everett",
+        "lastName": "Lynch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/716.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "981a3661-ef89-40ab-ac96-5e8033f1ca5b",
+        "email": "Kirk_Hand5@hotmail.com",
+        "firstName": "Dorothea",
+        "lastName": "Mitchell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/291.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "456b6bc5-3f6b-48c8-aca8-2a00b8f5e9bb",
+        "name": "Luxury Villa",
+        "location": "Beachfront",
+        "bedrooms": 12254,
+        "bathrooms": 31612,
+        "created_at": "2023-09-10T00:44:24.243Z",
+        "updated_at": "2023-09-10T08:18:35.368Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "648a3d61-eb22-4869-be22-504d415c869d",
+        "name": "Cozy Cottage",
+        "location": "City Center",
+        "bedrooms": 59532,
+        "bathrooms": 5465,
+        "created_at": "2023-09-10T01:25:11.097Z",
+        "updated_at": "2023-09-09T21:49:19.673Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "adb71224-ae37-498a-bdd0-2ef82c8a1811",
+        "name": "Modern Apartment",
+        "location": "Mountain View",
+        "bedrooms": 77936,
+        "bathrooms": 74083,
+        "created_at": "2023-09-10T12:41:28.574Z",
+        "updated_at": "2023-09-09T23:09:02.204Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "742c3323-1ada-43cd-a431-586a3e9716c5",
+        "name": "Spacious Condo",
+        "location": "Lakefront",
+        "bedrooms": 85012,
+        "bathrooms": 46306,
+        "created_at": "2023-09-10T12:54:22.683Z",
+        "updated_at": "2023-09-10T10:51:09.115Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5bec6191-01d1-4d44-8812-40dbee2dc0df",
+        "name": "Charming Bungalow",
+        "location": "Suburban Area",
+        "bedrooms": 38649,
+        "bathrooms": 36389,
+        "created_at": "2023-09-10T09:32:57.307Z",
+        "updated_at": "2023-09-09T19:32:52.853Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "e58537a0-f3a4-4267-a784-26b7eb3b5206",
+        "name": "Social Media Hub",
+        "url": "https://socialhub.com",
+        "api_key": "a1b2c3d4e5f6g7h8i9j0",
+        "api_secret": "s3c2r1e0t9k8e7y6",
+        "created_at": "2023-09-10T01:57:33.281Z",
+        "updated_at": "2023-09-10T06:28:52.081Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "eeb633c7-b49b-43ca-a504-05705f9c75ef",
+        "name": "E-commerce Marketplace",
+        "url": "https://marketplace.com",
+        "api_key": "k1l2m3n4o5p6q7r8s9t0",
+        "api_secret": "s9e8c7r6e5t4k3e2y1",
+        "created_at": "2023-09-10T14:56:53.222Z",
+        "updated_at": "2023-09-10T12:52:56.430Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ca492c50-7681-4043-990b-44c4e4b265ca",
+        "name": "Analytics Dashboard",
+        "url": "https://analyticsdashboard.com",
+        "api_key": "u1v2w3x4y5z6a7b8c9d0",
+        "api_secret": "a0p1i2s3e4c5r6e7t8",
+        "created_at": "2023-09-09T20:13:13.653Z",
+        "updated_at": "2023-09-09T17:02:00.299Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "606d6be9-8eaa-402c-913d-ec04ca8ea527",
+        "name": "Collaboration Tool",
+        "url": "https://collaborationtool.com",
+        "api_key": "e5f4g3h2i1j0k9l8m7n6o5p4q3r2s1t0",
+        "api_secret": "s0e1c2r3e4t5k6e7y8",
+        "created_at": "2023-09-10T04:45:20.260Z",
+        "updated_at": "2023-09-10T05:34:41.071Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9386e8b1-cb9d-4f5e-8d09-ee80c8fe23a5",
+        "name": "Project Management Platform",
+        "url": "https://projectmanagementplatform.com",
+        "api_key": "u9v8w7x6y5z4a3b2c1d0e9f8g7h6i5j4k3l2m1n0",
+        "api_secret": "a9p8i7s6e5c4r3e2t1",
+        "created_at": "2023-09-10T02:21:21.193Z",
+        "updated_at": "2023-09-09T22:49:40.393Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "30a04044-4d2e-4c25-8ac4-8d2017352ab2",
+        "date": "2023-09-10T15:18:43.180Z",
+        "status": "Active",
+        "created_at": "2023-09-10T12:05:59.578Z",
+        "updated_at": "2023-09-10T12:53:58.670Z",
+        "property_id": "adb71224-ae37-498a-bdd0-2ef82c8a1811",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5ab66e5d-498f-41fd-8b81-581c8bb0ea20",
+        "date": "2023-09-10T10:24:18.185Z",
+        "status": "Inactive",
+        "created_at": "2023-09-10T15:35:43.380Z",
+        "updated_at": "2023-09-09T19:49:25.268Z",
+        "property_id": "648a3d61-eb22-4869-be22-504d415c869d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a56e129f-f76e-4bd5-96b6-23406f49af0a",
+        "date": "2023-09-10T07:12:07.723Z",
+        "status": "Busy",
+        "created_at": "2023-09-10T16:47:14.764Z",
+        "updated_at": "2023-09-09T19:52:18.912Z",
+        "property_id": "648a3d61-eb22-4869-be22-504d415c869d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e35c2771-2f79-489c-a9ef-93392800917d",
+        "date": "2023-09-10T11:07:53.712Z",
+        "status": "Available",
+        "created_at": "2023-09-10T09:05:28.011Z",
+        "updated_at": "2023-09-10T16:09:36.604Z",
+        "property_id": "adb71224-ae37-498a-bdd0-2ef82c8a1811",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a54d430-5544-4bfa-9638-3678d1b8d5d2",
+        "date": "2023-09-09T21:20:18.949Z",
+        "status": "Out of Office",
+        "created_at": "2023-09-09T17:31:58.159Z",
+        "updated_at": "2023-09-09T19:41:36.740Z",
+        "property_id": "adb71224-ae37-498a-bdd0-2ef82c8a1811",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "b914791c-dc3d-41c2-90bf-cb51ad618b75",
+        "title": "New Product Launch",
+        "content": "We are excited to announce the launch of our latest product. Stay tuned for more details!",
+        "date_posted": "2023-09-10T11:47:56.397Z",
+        "created_at": "2023-09-10T14:50:16.269Z",
+        "updated_at": "2023-09-10T00:24:51.906Z",
+        "platform_id": "e58537a0-f3a4-4267-a784-26b7eb3b5206",
+        "property_id": "742c3323-1ada-43cd-a431-586a3e9716c5"
+      },
+      {
+        "id": "5dbf6159-a4bd-46c6-904c-94e1cac95162",
+        "title": "Upcoming Event Announcement",
+        "content": "Join us for our upcoming event on [date]. Register now to secure your spot!",
+        "date_posted": "2023-09-10T12:11:35.019Z",
+        "created_at": "2023-09-10T15:58:56.617Z",
+        "updated_at": "2023-09-09T21:08:49.967Z",
+        "platform_id": "eeb633c7-b49b-43ca-a504-05705f9c75ef",
+        "property_id": "5bec6191-01d1-4d44-8812-40dbee2dc0df"
+      },
+      {
+        "id": "804fb8b9-a157-4365-b6ce-f1da2154553f",
+        "title": "Important Notice",
+        "content": "Please be informed that there will be a scheduled maintenance on [date]. We apologize for any inconvenience caused.",
+        "date_posted": "2023-09-09T16:56:35.852Z",
+        "created_at": "2023-09-10T15:20:03.328Z",
+        "updated_at": "2023-09-10T15:03:04.266Z",
+        "platform_id": "9386e8b1-cb9d-4f5e-8d09-ee80c8fe23a5",
+        "property_id": "5bec6191-01d1-4d44-8812-40dbee2dc0df"
+      },
+      {
+        "id": "10b82416-8ffd-41b5-957f-599db28a155a",
+        "title": "Company Milestone Celebration",
+        "content": "We have reached a significant milestone! Thank you for your continued support.",
+        "date_posted": "2023-09-10T10:18:35.425Z",
+        "created_at": "2023-09-10T12:13:39.887Z",
+        "updated_at": "2023-09-10T16:10:03.597Z",
+        "platform_id": "9386e8b1-cb9d-4f5e-8d09-ee80c8fe23a5",
+        "property_id": "648a3d61-eb22-4869-be22-504d415c869d"
+      },
+      {
+        "id": "d9863109-103a-46c9-be3d-b04034e57bb4",
+        "title": "Service Update",
+        "content": "We have made improvements to our services. Check out the latest updates!",
+        "date_posted": "2023-09-10T13:25:13.517Z",
+        "created_at": "2023-09-10T06:20:30.728Z",
+        "updated_at": "2023-09-10T14:27:52.687Z",
+        "platform_id": "9386e8b1-cb9d-4f5e-8d09-ee80c8fe23a5",
+        "property_id": "5bec6191-01d1-4d44-8812-40dbee2dc0df"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c56b28e4-7cef-45f5-b789-2b01c4d8d3a3",
+        "email": "Summer37@gmail.com",
+        "firstName": "Iva",
+        "lastName": "Reynolds",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22265098",
+        "tenantId": null
+      },
+      {
+        "reference": "ee61b3fb-16fa-4ae2-844f-cf055dc21f40",
+        "email": "Chelsey_Runolfsdottir@hotmail.com",
+        "firstName": "Paula",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81020847",
+        "tenantId": null
+      },
+      {
+        "reference": "224e4117-585b-472d-886a-6df94577d3b5",
+        "email": "Dean_Jast@yahoo.com",
+        "firstName": "Coty",
+        "lastName": "Powlowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/983.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "84d92320-9a78-45a3-9c4b-f46c892bf93f",
+        "email": "Skylar.Parker@hotmail.com",
+        "firstName": "Cortez",
+        "lastName": "Grant",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/276.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "09f699dc-8804-4a9a-8765-bed5ef6fc44f",
+        "email": "Mellie_Cassin@gmail.com",
+        "firstName": "Lulu",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/342.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "f852da64-3551-465f-9625-df1252a6405e",
+        "name": "Cozy Cottage",
+        "location": "New York City",
+        "bedrooms": 31982,
+        "bathrooms": 38609,
+        "created_at": "2023-09-10T08:37:35.389Z",
+        "updated_at": "2023-09-10T01:40:24.530Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c387115a-4737-44b9-a34a-89f2a7cd208d",
+        "name": "Modern Loft",
+        "location": "San Francisco",
+        "bedrooms": 3350,
+        "bathrooms": 12689,
+        "created_at": "2023-09-09T20:43:20.139Z",
+        "updated_at": "2023-09-09T21:37:23.090Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5cb1b633-f39b-4e72-a711-eb138c9be386",
+        "name": "Rustic Farmhouse",
+        "location": "London",
+        "bedrooms": 7497,
+        "bathrooms": 30575,
+        "created_at": "2023-09-10T10:19:08.957Z",
+        "updated_at": "2023-09-09T17:54:23.115Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "495fc388-7ad2-45b8-b077-505b73216971",
+        "name": "Luxury Villa",
+        "location": "Tokyo",
+        "bedrooms": 51338,
+        "bathrooms": 6734,
+        "created_at": "2023-09-09T18:17:58.450Z",
+        "updated_at": "2023-09-09T23:04:37.785Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7dce04f6-3d81-4c8b-b58e-d1f1f21b6ad2",
+        "name": "Seaside Retreat",
+        "location": "Sydney",
+        "bedrooms": 51803,
+        "bathrooms": 63215,
+        "created_at": "2023-09-10T11:31:22.787Z",
+        "updated_at": "2023-09-10T02:16:37.195Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "1626311b-a6f8-4eec-b07c-d2f2897aeea4",
+        "name": "Social Media Hub",
+        "url": "https://www.socialmediahub.com",
+        "api_key": "1234567890",
+        "api_secret": "secretpassword1",
+        "created_at": "2023-09-09T23:15:06.140Z",
+        "updated_at": "2023-09-10T05:25:16.309Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9706a3c7-9b93-4347-8be9-00b0859b3415",
+        "name": "eCommerce Solutions",
+        "url": "https://www.ecommercesolutions.com",
+        "api_key": "0987654321",
+        "api_secret": "secretpassword2",
+        "created_at": "2023-09-09T23:27:26.930Z",
+        "updated_at": "2023-09-09T17:17:38.371Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "833008ca-44af-40db-84e3-b4a333330a7c",
+        "name": "Data Analytics Platform",
+        "url": "https://www.dataanalyticsplatform.com",
+        "api_key": "abcdefg12345",
+        "api_secret": "secretpassword3",
+        "created_at": "2023-09-10T12:47:41.968Z",
+        "updated_at": "2023-09-10T05:22:36.928Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3a19c340-9c2b-4e8f-aa91-7e516426d2c5",
+        "name": "Mobile App Development",
+        "url": "https://www.mobileappdevelopment.com",
+        "api_key": "54321gfedcba",
+        "api_secret": "secretpassword4",
+        "created_at": "2023-09-10T07:03:13.023Z",
+        "updated_at": "2023-09-10T13:02:27.569Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e11c3000-1841-4735-bcab-ade9d16f4bb7",
+        "name": "Cloud Computing Services",
+        "url": "https://www.cloudcomputingservices.com",
+        "api_key": "qwertyuiop123",
+        "api_secret": "secretpassword5",
+        "created_at": "2023-09-10T12:57:05.702Z",
+        "updated_at": "2023-09-10T02:44:32.361Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "579058ce-237a-4df7-952f-1c9ab8c8277b",
+        "date": "2023-09-09T18:10:29.374Z",
+        "status": "Active",
+        "created_at": "2023-09-10T06:21:48.973Z",
+        "updated_at": "2023-09-09T21:51:48.711Z",
+        "property_id": "495fc388-7ad2-45b8-b077-505b73216971",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "995044f3-b81f-4010-9251-f923743b7a27",
+        "date": "2023-09-10T12:38:02.540Z",
+        "status": "Inactive",
+        "created_at": "2023-09-10T09:05:33.840Z",
+        "updated_at": "2023-09-09T17:01:35.838Z",
+        "property_id": "7dce04f6-3d81-4c8b-b58e-d1f1f21b6ad2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60f48d80-25c2-44a5-97ca-74df387b7c57",
+        "date": "2023-09-09T21:45:36.583Z",
+        "status": "Pending",
+        "created_at": "2023-09-10T00:47:54.358Z",
+        "updated_at": "2023-09-10T02:26:39.317Z",
+        "property_id": "7dce04f6-3d81-4c8b-b58e-d1f1f21b6ad2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a4beae5-cfd1-4669-ac8f-d7470e9fd7b2",
+        "date": "2023-09-10T08:01:00.930Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-10T10:45:08.505Z",
+        "updated_at": "2023-09-10T04:33:01.196Z",
+        "property_id": "5cb1b633-f39b-4e72-a711-eb138c9be386",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "409abf04-9274-4b60-a164-15967b56dd90",
+        "date": "2023-09-10T12:40:30.780Z",
+        "status": "Completed",
+        "created_at": "2023-09-09T21:35:38.178Z",
+        "updated_at": "2023-09-10T14:09:48.213Z",
+        "property_id": "f852da64-3551-465f-9625-df1252a6405e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "3f4e044d-4575-479e-a23a-12a2600d094b",
+        "title": "Important Announcement",
+        "content": "Join us for an exclusive event on Friday!",
+        "date_posted": "2023-09-10T08:32:35.056Z",
+        "created_at": "2023-09-10T11:14:06.573Z",
+        "updated_at": "2023-09-10T16:42:13.076Z",
+        "platform_id": "e11c3000-1841-4735-bcab-ade9d16f4bb7",
+        "property_id": "495fc388-7ad2-45b8-b077-505b73216971"
+      },
+      {
+        "id": "82360352-6ad8-478c-868a-0c7a1aeb02ec",
+        "title": "Exciting News",
+        "content": "We are thrilled to announce our new product launch!",
+        "date_posted": "2023-09-10T12:15:45.854Z",
+        "created_at": "2023-09-09T20:45:40.280Z",
+        "updated_at": "2023-09-10T13:12:13.146Z",
+        "platform_id": "3a19c340-9c2b-4e8f-aa91-7e516426d2c5",
+        "property_id": "7dce04f6-3d81-4c8b-b58e-d1f1f21b6ad2"
+      },
+      {
+        "id": "6d0207b5-8eab-419b-9114-4fb8b7406457",
+        "title": "Upcoming Event",
+        "content": "Help us make a difference in the community!",
+        "date_posted": "2023-09-10T10:58:30.577Z",
+        "created_at": "2023-09-09T22:39:16.495Z",
+        "updated_at": "2023-09-10T02:26:23.331Z",
+        "platform_id": "833008ca-44af-40db-84e3-b4a333330a7c",
+        "property_id": "7dce04f6-3d81-4c8b-b58e-d1f1f21b6ad2"
+      },
+      {
+        "id": "f85b2769-4d06-4ed8-ad27-c8cb95f2e6ae",
+        "title": "Special Offer",
+        "content": "Limited time offer: 50% off all products!",
+        "date_posted": "2023-09-10T00:20:31.481Z",
+        "created_at": "2023-09-10T16:32:59.494Z",
+        "updated_at": "2023-09-10T07:29:57.326Z",
+        "platform_id": "1626311b-a6f8-4eec-b07c-d2f2897aeea4",
+        "property_id": "f852da64-3551-465f-9625-df1252a6405e"
+      },
+      {
+        "id": "59b5820d-1087-46f8-9194-b8291fc8bffc",
+        "title": "Community Update",
+        "content": "Stay connected with our latest updates and news!",
+        "date_posted": "2023-09-10T05:14:16.736Z",
+        "created_at": "2023-09-10T16:40:23.094Z",
+        "updated_at": "2023-09-10T13:48:03.046Z",
+        "platform_id": "1626311b-a6f8-4eec-b07c-d2f2897aeea4",
+        "property_id": "495fc388-7ad2-45b8-b077-505b73216971"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e4bf2ea7-6937-495c-a15d-9bf850aa4f23",
+        "email": "Nathen25@yahoo.com",
+        "firstName": "Cathrine",
+        "lastName": "Koepp",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1028.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "da8ed916-a914-44c3-a5d2-811787420451",
+        "email": "Elias_Marks@gmail.com",
+        "firstName": "Ervin",
+        "lastName": "Breitenberg-Brown",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1192.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cb580ce0-a3cb-4f39-88e5-fd1703c0b8df",
+        "email": "Abdiel_Kub@hotmail.com",
+        "firstName": "Vallie",
+        "lastName": "Kovacek",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62872940",
+        "tenantId": null
+      },
+      {
+        "reference": "9fc9c3f4-024e-48e8-973b-d1441c40be59",
+        "email": "Catharine6@gmail.com",
+        "firstName": "Greg",
+        "lastName": "Wehner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/330.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3af8661d-4b9b-49e2-9c33-e96f0af0dbba",
+        "email": "Retha.Mosciski93@gmail.com",
+        "firstName": "Gloria",
+        "lastName": "Carter",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98084806",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "778ba916-cf6f-4a04-9860-12c5b9e366bf",
+        "name": "Cozy Cottage",
+        "location": "Los Angeles, CA",
+        "bedrooms": 66257,
+        "bathrooms": 92424,
+        "created_at": "2023-09-10T15:19:50.229Z",
+        "updated_at": "2023-09-10T05:58:39.816Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "adacab78-8323-4dc9-bf17-1d506db33a0e",
+        "name": "Serenity Villa",
+        "location": "New York, NY",
+        "bedrooms": 88969,
+        "bathrooms": 24012,
+        "created_at": "2023-09-09T23:13:31.122Z",
+        "updated_at": "2023-09-09T22:25:03.579Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1da193c5-d31e-4890-8e2e-435feee27dd6",
+        "name": "Sunset Paradise",
+        "location": "Miami, FL",
+        "bedrooms": 38783,
+        "bathrooms": 26880,
+        "created_at": "2023-09-10T04:17:15.823Z",
+        "updated_at": "2023-09-09T19:38:29.599Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "780d2a04-f1b8-45e0-9625-bac8c129d891",
+        "name": "Mountain Retreat",
+        "location": "Denver, CO",
+        "bedrooms": 75818,
+        "bathrooms": 44926,
+        "created_at": "2023-09-09T17:59:00.033Z",
+        "updated_at": "2023-09-09T20:00:56.239Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "228d5e83-9855-400c-ba1b-0d02ddd71e4e",
+        "name": "Ocean View Haven",
+        "location": "Seattle, WA",
+        "bedrooms": 47409,
+        "bathrooms": 70095,
+        "created_at": "2023-09-10T12:22:04.200Z",
+        "updated_at": "2023-09-09T17:36:46.638Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "43a47e2d-facc-46ab-8f4d-64d0e8da31cc",
+        "name": "SocialConnect",
+        "url": "https://www.socialconnect.com",
+        "api_key": "abc123",
+        "api_secret": "xyz987",
+        "created_at": "2023-09-09T17:14:33.921Z",
+        "updated_at": "2023-09-10T15:30:32.121Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ada4cdb1-e9d9-435a-b983-e197722e8ce6",
+        "name": "EcommercePro",
+        "url": "https://www.ecommercepro.com",
+        "api_key": "def456",
+        "api_secret": "pqr654",
+        "created_at": "2023-09-10T01:05:28.213Z",
+        "updated_at": "2023-09-10T11:56:37.212Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cc06ab53-8d8d-4057-b512-9f55f305d666",
+        "name": "DataAnalyzer",
+        "url": "https://www.dataanalyzer.com",
+        "api_key": "ghi789",
+        "api_secret": "stu321",
+        "created_at": "2023-09-10T14:13:53.171Z",
+        "updated_at": "2023-09-10T06:38:28.573Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cba1958d-9449-4337-8e11-541a3d70f538",
+        "name": "MobileAppBuilder",
+        "url": "https://www.mobileappbuilder.com",
+        "api_key": "jkl012",
+        "api_secret": "vwx098",
+        "created_at": "2023-09-09T20:33:38.915Z",
+        "updated_at": "2023-09-09T18:51:12.878Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0ac01cda-8397-4326-b0ee-0c6bb06e40b7",
+        "name": "CloudManager",
+        "url": "https://www.cloudmanager.com",
+        "api_key": "mno345",
+        "api_secret": "yza765",
+        "created_at": "2023-09-10T04:07:06.186Z",
+        "updated_at": "2023-09-10T01:59:08.793Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "406e7f5b-d53f-4004-81de-89936375f16b",
+        "date": "2023-09-10T09:05:11.471Z",
+        "status": "Active",
+        "created_at": "2023-09-09T22:50:14.564Z",
+        "updated_at": "2023-09-09T20:57:01.946Z",
+        "property_id": "adacab78-8323-4dc9-bf17-1d506db33a0e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3871d804-7929-48f8-87c2-6bc3ed77f2a3",
+        "date": "2023-09-09T20:16:48.518Z",
+        "status": "Inactive",
+        "created_at": "2023-09-09T21:47:05.624Z",
+        "updated_at": "2023-09-10T14:06:18.201Z",
+        "property_id": "228d5e83-9855-400c-ba1b-0d02ddd71e4e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b09a767e-034c-4f17-b208-e19100b7be08",
+        "date": "2023-09-10T16:07:35.066Z",
+        "status": "Pending",
+        "created_at": "2023-09-10T06:58:03.302Z",
+        "updated_at": "2023-09-10T07:48:22.879Z",
+        "property_id": "adacab78-8323-4dc9-bf17-1d506db33a0e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b526554-62fd-4eaa-a324-766d0e3cad8c",
+        "date": "2023-09-10T06:32:01.280Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-10T12:10:15.633Z",
+        "updated_at": "2023-09-10T01:37:43.267Z",
+        "property_id": "780d2a04-f1b8-45e0-9625-bac8c129d891",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82c99c01-1899-43e0-9ebe-f0483ceb7c92",
+        "date": "2023-09-10T16:18:37.654Z",
+        "status": "Completed",
+        "created_at": "2023-09-10T09:17:07.490Z",
+        "updated_at": "2023-09-10T12:21:26.371Z",
+        "property_id": "adacab78-8323-4dc9-bf17-1d506db33a0e",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "f60d04d8-c74e-4f4f-a799-67e34240fbc8",
+        "title": "Important Announcement",
+        "content": "Join us for an exciting event next week!",
+        "date_posted": "2023-09-10T00:19:37.097Z",
+        "created_at": "2023-09-10T11:27:32.811Z",
+        "updated_at": "2023-09-09T20:21:38.164Z",
+        "platform_id": "0ac01cda-8397-4326-b0ee-0c6bb06e40b7",
+        "property_id": "228d5e83-9855-400c-ba1b-0d02ddd71e4e"
+      },
+      {
+        "id": "c572869c-1ce5-4823-9842-55f256089f31",
+        "title": "Upcoming Event",
+        "content": "Introducing our latest innovation in technology",
+        "date_posted": "2023-09-10T02:24:12.688Z",
+        "created_at": "2023-09-09T18:15:08.600Z",
+        "updated_at": "2023-09-10T07:08:51.701Z",
+        "platform_id": "cba1958d-9449-4337-8e11-541a3d70f538",
+        "property_id": "adacab78-8323-4dc9-bf17-1d506db33a0e"
+      },
+      {
+        "id": "af42c85a-b633-42a5-ac88-b771ad9c2061",
+        "title": "New Product Launch",
+        "content": "We are expanding our operations to new markets",
+        "date_posted": "2023-09-10T15:23:40.275Z",
+        "created_at": "2023-09-10T07:10:07.304Z",
+        "updated_at": "2023-09-09T23:36:05.685Z",
+        "platform_id": "cba1958d-9449-4337-8e11-541a3d70f538",
+        "property_id": "228d5e83-9855-400c-ba1b-0d02ddd71e4e"
+      },
+      {
+        "id": "4b33875a-fe9a-44b7-8841-ecc5530d2f61",
+        "title": "Company Update",
+        "content": "Stay tuned for exciting updates from our company",
+        "date_posted": "2023-09-09T22:20:23.219Z",
+        "created_at": "2023-09-09T17:37:52.860Z",
+        "updated_at": "2023-09-09T17:02:36.913Z",
+        "platform_id": "ada4cdb1-e9d9-435a-b983-e197722e8ce6",
+        "property_id": "228d5e83-9855-400c-ba1b-0d02ddd71e4e"
+      },
+      {
+        "id": "8c4ce3b8-2174-4d37-9f2b-aba1b6a44120",
+        "title": "Special Promotion",
+        "content": "Limited time offer - don't miss out!",
+        "date_posted": "2023-09-10T04:18:43.081Z",
+        "created_at": "2023-09-10T06:04:48.631Z",
+        "updated_at": "2023-09-10T02:19:33.845Z",
+        "platform_id": "43a47e2d-facc-46ab-8f4d-64d0e8da31cc",
+        "property_id": "1da193c5-d31e-4890-8e2e-435feee27dd6"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "021cf22f-6912-404a-9354-987ca58847ef",
+        "email": "Addie53@hotmail.com",
+        "firstName": "Arely",
+        "lastName": "Hackett",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70004823",
+        "tenantId": null
+      },
+      {
+        "reference": "d21b91fc-28e7-4eb5-b6bd-66c0ad7b0403",
+        "email": "Lloyd_Collier@gmail.com",
+        "firstName": "Annabelle",
+        "lastName": "Fadel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62088035",
+        "tenantId": null
+      },
+      {
+        "reference": "24e7411a-0fcd-47f1-95ca-467eb76e9ffc",
+        "email": "Kimberly_Heaney@gmail.com",
+        "firstName": "Olin",
+        "lastName": "Feil",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/133.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ccaa4d62-d5b7-4095-8c26-b68dc32ef5bb",
+        "email": "Hershel_Rowe@gmail.com",
+        "firstName": "River",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1221.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "75b85c05-1d3d-4eca-b694-45c9639a5161",
+        "email": "Stanford23@hotmail.com",
+        "firstName": "Judge",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20847898",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "a6f29c0a-a411-47b3-a3a0-a57f09eb0693",
+        "name": "Luxury Villa",
+        "location": "Malibu, California",
+        "bedrooms": 95533,
+        "bathrooms": 50747,
+        "created_at": "2023-09-09T23:54:41.820Z",
+        "updated_at": "2023-09-10T00:26:02.339Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fe634fc-da16-4ad6-b591-4349338e2705",
+        "name": "Cozy Cottage",
+        "location": "Aspen, Colorado",
+        "bedrooms": 2041,
+        "bathrooms": 20540,
+        "created_at": "2023-09-10T16:46:37.036Z",
+        "updated_at": "2023-09-10T00:53:41.944Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9db60963-3ec1-4f66-bc14-2f4cfee33e6d",
+        "name": "Modern Apartment",
+        "location": "Paris, France",
+        "bedrooms": 95910,
+        "bathrooms": 58978,
+        "created_at": "2023-09-09T20:53:14.105Z",
+        "updated_at": "2023-09-09T17:53:26.949Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ae2358f-1367-4b05-834b-5e371bc83794",
+        "name": "Rustic Cabin",
+        "location": "Tokyo, Japan",
+        "bedrooms": 32279,
+        "bathrooms": 56316,
+        "created_at": "2023-09-10T14:56:46.594Z",
+        "updated_at": "2023-09-10T11:05:07.011Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea47f384-0371-4aae-b3c6-2b4925a70257",
+        "name": "Beach House",
+        "location": "Sydney, Australia",
+        "bedrooms": 18898,
+        "bathrooms": 42870,
+        "created_at": "2023-09-10T07:29:06.907Z",
+        "updated_at": "2023-09-10T03:13:28.880Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "15daab02-d97b-4146-8e96-0ef42840b0b1",
+        "name": "SocialMediaHub",
+        "url": "https://www.socialmediahub.com",
+        "api_key": "8d7s9f2h3j4k6l5",
+        "api_secret": "a1b2c3d4e5f6g7h8",
+        "created_at": "2023-09-09T18:06:53.929Z",
+        "updated_at": "2023-09-10T04:24:56.798Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bdc60845-00e8-4a0b-a208-d95efc1035b1",
+        "name": "eCommercePro",
+        "url": "https://www.ecommercepro.com",
+        "api_key": "2a3s4d5f6g7h8j9",
+        "api_secret": "z9x8c7v6b5n4m3",
+        "created_at": "2023-09-10T13:38:05.724Z",
+        "updated_at": "2023-09-10T00:51:33.275Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "50306cd6-3772-499a-b6cd-fa9e7457aa57",
+        "name": "TravelPlanner",
+        "url": "https://www.travelplanner.com",
+        "api_key": "1q2w3e4r5t6y7u8",
+        "api_secret": "q1w2e3r4t5y6u7i8",
+        "created_at": "2023-09-09T18:30:30.726Z",
+        "updated_at": "2023-09-10T14:32:42.820Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1cc53958-542e-44b8-b6d7-4d6f4a3aa16a",
+        "name": "HealthTracker",
+        "url": "https://www.healthtracker.com",
+        "api_key": "9i8u7y6t5r4e3w2",
+        "api_secret": "p9o8i7u6y5t4r3e2",
+        "created_at": "2023-09-10T13:56:23.473Z",
+        "updated_at": "2023-09-10T03:48:39.915Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6c0a5a6e-5d58-41c4-a5d8-bf2bbc7bd01c",
+        "name": "FinanceWizard",
+        "url": "https://www.financewizard.com",
+        "api_key": "7h6j5k4l3m2n1b8",
+        "api_secret": "l1k2j3h4g5f6d7s8",
+        "created_at": "2023-09-10T03:05:12.693Z",
+        "updated_at": "2023-09-10T04:37:06.544Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "5337b45c-d98f-4708-a832-51e22c7fd148",
+        "date": "2023-09-09T22:57:27.275Z",
+        "status": "Active",
+        "created_at": "2023-09-09T18:44:26.383Z",
+        "updated_at": "2023-09-09T16:56:53.170Z",
+        "property_id": "ea47f384-0371-4aae-b3c6-2b4925a70257",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bae2ebab-5f90-4e98-82b7-0d6b945cc1ca",
+        "date": "2023-09-10T03:06:22.992Z",
+        "status": "Inactive",
+        "created_at": "2023-09-10T12:59:10.580Z",
+        "updated_at": "2023-09-10T09:52:20.117Z",
+        "property_id": "ea47f384-0371-4aae-b3c6-2b4925a70257",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b81a9c6-181e-4fd4-81ce-253288c829a4",
+        "date": "2023-09-10T14:08:20.968Z",
+        "status": "Pending",
+        "created_at": "2023-09-09T17:02:17.183Z",
+        "updated_at": "2023-09-09T21:26:25.776Z",
+        "property_id": "8ae2358f-1367-4b05-834b-5e371bc83794",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea671bcc-889d-4bc6-b1eb-f2c9e1bba44b",
+        "date": "2023-09-10T01:01:08.785Z",
+        "status": "Blocked",
+        "created_at": "2023-09-09T18:36:08.310Z",
+        "updated_at": "2023-09-10T12:27:19.998Z",
+        "property_id": "a6f29c0a-a411-47b3-a3a0-a57f09eb0693",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7f214c91-b704-4011-8f73-0ae19095fe78",
+        "date": "2023-09-10T00:01:55.048Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-09T21:14:54.323Z",
+        "updated_at": "2023-09-10T06:41:19.046Z",
+        "property_id": "a6f29c0a-a411-47b3-a3a0-a57f09eb0693",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "e4df40c0-0b72-4a02-9689-c44cb2f83913",
+        "title": "New Product Launch",
+        "content": "Join us for the launch of our latest product. Don't miss out!",
+        "date_posted": "2023-09-10T09:05:34.072Z",
+        "created_at": "2023-09-10T16:26:44.365Z",
+        "updated_at": "2023-09-09T23:04:26.145Z",
+        "platform_id": "6c0a5a6e-5d58-41c4-a5d8-bf2bbc7bd01c",
+        "property_id": "9fe634fc-da16-4ad6-b591-4349338e2705"
+      },
+      {
+        "id": "a6055133-309a-4eca-aaf9-4e9b4b1ac625",
+        "title": "Upcoming Event Announcement",
+        "content": "Save the date for our upcoming event. Exciting things are coming!",
+        "date_posted": "2023-09-09T17:50:53.789Z",
+        "created_at": "2023-09-10T12:02:03.516Z",
+        "updated_at": "2023-09-10T15:08:50.316Z",
+        "platform_id": "15daab02-d97b-4146-8e96-0ef42840b0b1",
+        "property_id": "ea47f384-0371-4aae-b3c6-2b4925a70257"
+      },
+      {
+        "id": "4024446d-3b4d-4e75-87dc-b8cad3d81e8a",
+        "title": "Important Notice",
+        "content": "Please be advised of the following important notice. Read more for details.",
+        "date_posted": "2023-09-10T09:46:53.496Z",
+        "created_at": "2023-09-10T08:29:55.880Z",
+        "updated_at": "2023-09-10T01:55:44.333Z",
+        "platform_id": "15daab02-d97b-4146-8e96-0ef42840b0b1",
+        "property_id": "8ae2358f-1367-4b05-834b-5e371bc83794"
+      },
+      {
+        "id": "4fd2ca9e-f925-40cf-bcd4-d32bdf102c6e",
+        "title": "Special Offer",
+        "content": "Get exclusive access to our limited-time special offer. Grab it now!",
+        "date_posted": "2023-09-09T18:31:57.792Z",
+        "created_at": "2023-09-10T13:02:17.531Z",
+        "updated_at": "2023-09-10T00:44:43.917Z",
+        "platform_id": "6c0a5a6e-5d58-41c4-a5d8-bf2bbc7bd01c",
+        "property_id": "9db60963-3ec1-4f66-bc14-2f4cfee33e6d"
+      },
+      {
+        "id": "f42b1f78-cb28-4243-80d8-d408b09793e2",
+        "title": "Company Update",
+        "content": "Stay informed with the latest company updates. Check out what's happening.",
+        "date_posted": "2023-09-10T07:06:33.500Z",
+        "created_at": "2023-09-10T05:34:02.021Z",
+        "updated_at": "2023-09-10T06:13:36.708Z",
+        "platform_id": "bdc60845-00e8-4a0b-a208-d95efc1035b1",
+        "property_id": "ea47f384-0371-4aae-b3c6-2b4925a70257"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cc2c8c5d-c84c-4485-b817-9ae8ba77144f",
+        "email": "Kobe.Cassin97@yahoo.com",
+        "firstName": "Nellie",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/812.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4ae0feb8-8c13-4c4e-a963-6bac3e2b9de4",
+        "email": "Dagmar38@yahoo.com",
+        "firstName": "Jordon",
+        "lastName": "Waelchi",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91460266",
+        "tenantId": null
+      },
+      {
+        "reference": "6e8dd494-e3ba-4cf8-8e93-50ee36a0d590",
+        "email": "Hadley28@gmail.com",
+        "firstName": "Cindy",
+        "lastName": "Jakubowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/681.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "35bf2050-2228-49a9-a6a0-7c922b0b2fb1",
+        "email": "Velva_Daniel92@hotmail.com",
+        "firstName": "Travon",
+        "lastName": "Krajcik",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1023.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2b464c00-dc5b-4bec-866c-17f447849d4b",
+        "email": "Rosario.Dickens63@yahoo.com",
+        "firstName": "Odell",
+        "lastName": "Torphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/240.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "bb0e1513-f68f-4162-81c3-803adbfbfe84",
+        "name": "Cozy Cottage",
+        "location": "Beachfront",
+        "bedrooms": 853,
+        "bathrooms": 83505,
+        "created_at": "2023-09-10T07:53:02.827Z",
+        "updated_at": "2023-09-10T08:15:44.212Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "897b213d-24e2-49a4-957d-cb5b213c47cf",
+        "name": "Modern Condo",
+        "location": "City Center",
+        "bedrooms": 45947,
+        "bathrooms": 26308,
+        "created_at": "2023-09-09T21:23:54.927Z",
+        "updated_at": "2023-09-10T05:13:43.622Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61b40cc2-b3a9-483a-866a-3f6aceec4494",
+        "name": "Spacious Villa",
+        "location": "Mountain Retreat",
+        "bedrooms": 79640,
+        "bathrooms": 17031,
+        "created_at": "2023-09-09T17:07:43.725Z",
+        "updated_at": "2023-09-10T14:02:07.819Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "21087611-9620-4734-8b4a-32ba9ee5e853",
+        "name": "Rustic Cabin",
+        "location": "Lake View",
+        "bedrooms": 55920,
+        "bathrooms": 30315,
+        "created_at": "2023-09-10T12:27:46.847Z",
+        "updated_at": "2023-09-09T21:01:07.519Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8919b5f8-abe1-4e99-b1f1-966e00616214",
+        "name": "Luxury Penthouse",
+        "location": "Countryside",
+        "bedrooms": 20205,
+        "bathrooms": 35380,
+        "created_at": "2023-09-10T12:37:42.945Z",
+        "updated_at": "2023-09-10T00:04:59.063Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "platform": [
+      {
+        "id": "f03af42f-9c89-4cf7-b384-e5a25f001ff1",
+        "name": "SocialConnect",
+        "url": "https://www.socialconnect.com",
+        "api_key": "abc123",
+        "api_secret": "secret1",
+        "created_at": "2023-09-10T12:05:18.359Z",
+        "updated_at": "2023-09-10T06:07:22.205Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0880730b-9d80-475e-abbe-596256dd7e76",
+        "name": "eCommercePro",
+        "url": "https://www.ecommercepro.com",
+        "api_key": "def456",
+        "api_secret": "secret2",
+        "created_at": "2023-09-10T16:44:22.592Z",
+        "updated_at": "2023-09-10T06:22:21.942Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "24eebdcc-d0cb-4af4-9187-0bebaf4db076",
+        "name": "TechHub",
+        "url": "https://www.techhub.com",
+        "api_key": "ghi789",
+        "api_secret": "secret3",
+        "created_at": "2023-09-10T11:09:29.663Z",
+        "updated_at": "2023-09-10T10:01:00.584Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8453f533-7832-49cf-bd4d-c7e203c1fb8b",
+        "name": "TravelPlanner",
+        "url": "https://www.travelplanner.com",
+        "api_key": "jkl012",
+        "api_secret": "secret4",
+        "created_at": "2023-09-09T20:19:59.235Z",
+        "updated_at": "2023-09-10T11:43:10.150Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "797d1e81-20f5-4386-a5f1-6b7bb4fe8cff",
+        "name": "HealthTrack",
+        "url": "https://www.healthtrack.com",
+        "api_key": "mno345",
+        "api_secret": "secret5",
+        "created_at": "2023-09-10T14:47:00.696Z",
+        "updated_at": "2023-09-09T22:49:40.713Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "cb18ee78-5b6a-4988-a0c5-dab38d5ecffa",
+        "date": "2023-09-10T05:31:53.719Z",
+        "status": "Active",
+        "created_at": "2023-09-10T08:29:44.105Z",
+        "updated_at": "2023-09-09T19:36:13.324Z",
+        "property_id": "897b213d-24e2-49a4-957d-cb5b213c47cf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16fe4987-a8dd-469c-9209-99fcc61c5a85",
+        "date": "2023-09-09T20:20:03.389Z",
+        "status": "Inactive",
+        "created_at": "2023-09-10T16:36:06.450Z",
+        "updated_at": "2023-09-10T14:37:49.121Z",
+        "property_id": "21087611-9620-4734-8b4a-32ba9ee5e853",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2393799-8c31-450b-8e22-1792cceb69c2",
+        "date": "2023-09-10T13:20:04.168Z",
+        "status": "Pending",
+        "created_at": "2023-09-10T15:20:15.772Z",
+        "updated_at": "2023-09-10T05:58:41.436Z",
+        "property_id": "61b40cc2-b3a9-483a-866a-3f6aceec4494",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "03996dfb-221e-49ae-8d03-a546a15bba3c",
+        "date": "2023-09-10T10:24:54.888Z",
+        "status": "Cancelled",
+        "created_at": "2023-09-10T09:59:14.156Z",
+        "updated_at": "2023-09-10T01:42:09.108Z",
+        "property_id": "897b213d-24e2-49a4-957d-cb5b213c47cf",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da987b28-3f2c-4e48-a701-3cd56563fb59",
+        "date": "2023-09-10T00:44:41.080Z",
+        "status": "Completed",
+        "created_at": "2023-09-10T08:07:34.745Z",
+        "updated_at": "2023-09-10T12:27:37.438Z",
+        "property_id": "21087611-9620-4734-8b4a-32ba9ee5e853",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "announcement": [
+      {
+        "id": "b31a5969-7b6a-4fd8-a3dd-b3b1618e73dc",
+        "title": "Upcoming Event",
+        "content": "Join us for an exciting event happening next week!",
+        "date_posted": "2023-09-10T10:46:01.348Z",
+        "created_at": "2023-09-09T17:08:32.576Z",
+        "updated_at": "2023-09-09T21:13:16.480Z",
+        "platform_id": "f03af42f-9c89-4cf7-b384-e5a25f001ff1",
+        "property_id": "bb0e1513-f68f-4162-81c3-803adbfbfe84"
+      },
+      {
+        "id": "df6401b6-91ae-419b-9b89-b8b246f0a025",
+        "title": "New Product Launch",
+        "content": "Introducing our latest product with advanced features.",
+        "date_posted": "2023-09-10T16:29:36.342Z",
+        "created_at": "2023-09-10T07:41:43.054Z",
+        "updated_at": "2023-09-10T05:00:32.177Z",
+        "platform_id": "8453f533-7832-49cf-bd4d-c7e203c1fb8b",
+        "property_id": "897b213d-24e2-49a4-957d-cb5b213c47cf"
+      },
+      {
+        "id": "6da4140c-7ec7-42a8-924a-fde43fe21870",
+        "title": "Important Announcement",
+        "content": "Important information regarding upcoming changes.",
+        "date_posted": "2023-09-09T18:39:15.159Z",
+        "created_at": "2023-09-10T00:41:00.595Z",
+        "updated_at": "2023-09-10T12:41:48.929Z",
+        "platform_id": "f03af42f-9c89-4cf7-b384-e5a25f001ff1",
+        "property_id": "21087611-9620-4734-8b4a-32ba9ee5e853"
+      },
+      {
+        "id": "5f543b20-ca7e-46b8-a8a8-c2135b34c61c",
+        "title": "Special Promotion",
+        "content": "Get exclusive discounts on our products for a limited time.",
+        "date_posted": "2023-09-10T02:08:37.336Z",
+        "created_at": "2023-09-10T01:54:48.403Z",
+        "updated_at": "2023-09-10T05:14:11.660Z",
+        "platform_id": "8453f533-7832-49cf-bd4d-c7e203c1fb8b",
+        "property_id": "8919b5f8-abe1-4e99-b1f1-966e00616214"
+      },
+      {
+        "id": "49f50b01-eb6c-4802-b6be-14b0fa909bb1",
+        "title": "Company Update",
+        "content": "Learn about the latest achievements and milestones of our company.",
+        "date_posted": "2023-09-10T16:36:27.395Z",
+        "created_at": "2023-09-10T11:55:24.420Z",
+        "updated_at": "2023-09-10T13:23:59.458Z",
+        "platform_id": "0880730b-9d80-475e-abbe-596256dd7e76",
+        "property_id": "897b213d-24e2-49a4-957d-cb5b213c47cf"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "94cf3735-e97e-4da9-9059-6522af1d7164",
+        "email": "Luz.Franey7@hotmail.com",
+        "firstName": "Terence",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18950439",
+        "tenantId": null
+      },
+      {
+        "reference": "fded8885-5d35-48a9-8e65-d07ecd85b186",
+        "email": "Luna.Mills38@gmail.com",
+        "firstName": "Geovanny",
+        "lastName": "Wyman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/793.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "655d2f44-8abc-426f-a78c-23f7e9513f0f",
+        "email": "Rick_Marquardt@gmail.com",
+        "firstName": "Liliana",
+        "lastName": "Lebsack",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14130165",
+        "tenantId": null
+      },
+      {
+        "reference": "265b9561-ab0f-4e51-90af-fa4ed479c8e7",
+        "email": "Donnell0@gmail.com",
+        "firstName": "Ashtyn",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/534.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "742a0d29-6446-41b0-94a9-04cdb1336a6f",
+        "email": "Terence_Brown@yahoo.com",
+        "firstName": "Stefan",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1051124",
+        "tenantId": null
+      }
+    ]
+  }
+]
